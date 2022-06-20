@@ -1,7 +1,7 @@
 This creates tables and populates them with some default data.
 ---------------------------------------------------------------
-DROP TABLE Favorites;__
-GO__
+DROP TABLE Favorites;  
+GO  
 DROP TABLE Tickets;
 GO
 DROP TABLE UserPerm;
